@@ -27,3 +27,6 @@ Step 1: Run the script
 1. Save original file hash
 2. Check file integrity
 Step 3: Enter the full path of the file
+
+OUTPUT
+![Image](https://github.com/user-attachments/assets/3d6727d8-b392-4c13-82fe-6f542c46ad1f)
